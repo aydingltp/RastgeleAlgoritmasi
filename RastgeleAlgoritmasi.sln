@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RastgeleAlgoritmasi", "RastgeleAlgoritmasi\RastgeleAlgoritmasi.csproj", "{60050C46-2B5C-4EFB-9734-D34ADB47C240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60050C46-2B5C-4EFB-9734-D34ADB47C240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60050C46-2B5C-4EFB-9734-D34ADB47C240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60050C46-2B5C-4EFB-9734-D34ADB47C240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60050C46-2B5C-4EFB-9734-D34ADB47C240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F6BC9BE-1B27-4FF8-8FD2-476CD277EDF0}
+	EndGlobalSection
+EndGlobal
